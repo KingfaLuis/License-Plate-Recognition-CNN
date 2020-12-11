@@ -14,7 +14,7 @@ pip3 install pytorch==0.3.1
 Set the directory of input images at line 218 of final.py.
 
 ```python
-python3 final
+python3 final.py
 ```
 
 ## Contributing
